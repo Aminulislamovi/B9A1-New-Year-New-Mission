@@ -1,0 +1,88 @@
+.banner-image {
+
+    background-image: url('../resources/Banner\ Image.png');
+
+    background-repeat: no-repeat;
+    height: 600px;
+    margin: 30px;
+}
+
+.year-headling {
+
+    color: #FFF;
+    text-align: center;
+    font-size: 32px;
+    font-weight: 400;
+    max-width: 1140px;
+    padding: 130px 130px;
+    margin: 130px 0;
+
+
+}
+
+.new-party,
+.new-year {
+    color: #FFFFFF;
+}
+
+/* discount section */
+.off {
+    color: #F00;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 300px;
+}
+
+.categories {
+    color: #070211;
+}
+
+.discount-container {
+    max-width: 1140px;
+    padding: 10px 10px;
+    margin: 10px 0;
+    align-items: center;
+
+}
+
+.image {
+    margin: 100px;
+    width: 300;
+    height: 500px;
+}
+
+/* welcome -section */
+.welcome-container {
+    background-image: url('../resources/Vectorrr.png');
+    background-repeat: no-repeat;
+    display: flex;
+
+}
+
+.welcome-content {
+    color: #FFF;
+    font-size: 25px;
+    font-weight: 20;
+}
+
+.welcome-content {
+    margin: 50px;
+}
+
+/* <!-- hotel partk section --> */
+ .hotel-date {
+    color: #F00;
+
+}
+.hotel-container{
+    text-align: center;
+    height: 200px;
+}
+.btn-primary{
+    color:#FFF;
+text-align: center;
+font-size: 20px;
+border-radius: 5px;
+background: #F00;
+
+}
